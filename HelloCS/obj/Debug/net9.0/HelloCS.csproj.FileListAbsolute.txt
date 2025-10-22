@@ -1,0 +1,14 @@
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/bin/Debug/net9.0/HelloCS
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/bin/Debug/net9.0/HelloCS.deps.json
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/bin/Debug/net9.0/HelloCS.runtimeconfig.json
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/bin/Debug/net9.0/HelloCS.dll
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/bin/Debug/net9.0/HelloCS.pdb
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.AssemblyInfoInputs.cache
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.AssemblyInfo.cs
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.dll
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/refint/HelloCS.dll
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.pdb
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.genruntimeconfig.cache
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/ref/HelloCS.dll
