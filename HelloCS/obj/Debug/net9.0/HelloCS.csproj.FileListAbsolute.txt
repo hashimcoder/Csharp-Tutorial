@@ -12,3 +12,4 @@
 /Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.pdb
 /Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.genruntimeconfig.cache
 /Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/ref/HelloCS.dll
+/Users/hashimmac/Desktop/C# Tutorials/HelloCS/obj/Debug/net9.0/HelloCS.sourcelink.json
